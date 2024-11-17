@@ -15,8 +15,6 @@
 
 - 📫 How to reach me **Ahmed.saadallah1@outlook.com**
 
-- ⚡ Fun fact **I am Funny**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/@ahmedsa96771283" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@ahmedsa96771283" height="30" width="40" /></a>
